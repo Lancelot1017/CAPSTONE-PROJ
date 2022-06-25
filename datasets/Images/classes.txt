@@ -1,0 +1,24 @@
+dog
+person
+cat
+tv
+car
+meatballs
+marinara sauce
+tomato soup
+chicken noodle soup
+french onion soup
+chicken breast
+ribs
+pulled pork
+hamburger
+cavity
+Biodegradable: Apple
+Non Biodegradable: Plastic
+Biodegradable: Cucumber
+Non Biodegradable: Face Masks
+Biodegradable: Leaf
+Non Biodegradable: Plastic Bottle
+Non Biodegradable: Plastic Cup
+Non Biodegradable: Styro Cup
+Biodegradable: Tomato
